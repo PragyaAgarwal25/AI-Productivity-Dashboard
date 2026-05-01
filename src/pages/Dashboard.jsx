@@ -96,7 +96,7 @@ export default function Dashboard() {
       {/* Greeting */}
       <div style={{ marginBottom: 24 }}>
         <h1 style={{ fontSize: 26, fontWeight: 700, color: "var(--text)", marginBottom: 4 }}>
-          {getGreeting()}, Aryan 👋
+          {getGreeting()}, Pragya 👋
         </h1>
         <p style={{ color: "var(--text-muted)", fontSize: 14 }}>
           {new Date().toLocaleDateString("en-IN", { weekday: "long", year: "numeric", month: "long", day: "numeric" })}

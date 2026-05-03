@@ -98,7 +98,7 @@ export default function Sidebar({ collapsed, setCollapsed }) {
       {/* User */}
       <div style={{ padding: "12px 8px", borderTop: "1px solid var(--border)" }}>
         <div style={{ ...navItem(false), gap: 10 }}>
-          <Avatar name="Aryan Dev" />
+          <Avatar name="Pragya Agarwal" />
           {!collapsed && (
             <div style={{ overflow: "hidden" }}>
               <div style={{ fontSize: 13, fontWeight: 600, color: "var(--text)", whiteSpace: "nowrap" }}>

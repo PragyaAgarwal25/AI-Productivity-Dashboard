@@ -102,7 +102,7 @@ export default function Sidebar({ collapsed, setCollapsed }) {
           {!collapsed && (
             <div style={{ overflow: "hidden" }}>
               <div style={{ fontSize: 13, fontWeight: 600, color: "var(--text)", whiteSpace: "nowrap" }}>
-                Aryan Dev
+                Pragya Agarwal
               </div>
               <div style={{ fontSize: 11, color: "var(--text-muted)" }}>Student</div>
             </div>
